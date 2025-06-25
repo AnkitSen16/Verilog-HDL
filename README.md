@@ -1,2 +1,2 @@
 # Verilog-HDL
-This repository consists of the chapterwise solutions of the exercise problems of the book Verilog-HDL by Samir Palnitkar
+Contains the Source codes for Traffic Light Controller, Vending machine design and verification
